@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7d32303a1e24704a98df77be46e2b50, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  Levels:
+  - {fileID: 11400000, guid: c9685c58189ec6f49b4ce7317a930a57, type: 2}
+  - {fileID: 11400000, guid: b421fff878cd4194fa5a2139a2aedba6, type: 2}
+  - {fileID: 11400000, guid: 424e5038f07241f4a977d7820acd55ee, type: 2}
+  - {fileID: 11400000, guid: 075bd056e5f4bc3498227fc144eb8569, type: 2}
+  - {fileID: 11400000, guid: 8c7ce0f99fca83d4c91456b0aa103f98, type: 2}
+  - {fileID: 11400000, guid: f0048429cd2ed9a4a8d9b96a53ba1013, type: 2}
+  - {fileID: 11400000, guid: 93f43dee07510ca4aacdd72068866b91, type: 2}
+  - {fileID: 11400000, guid: 0bdaab82cb9559d43ac258d4e2b3b6d9, type: 2}
+  - {fileID: 11400000, guid: 3896bca8ae235e4419da444c6961e86b, type: 2}
+  - {fileID: 11400000, guid: 76603c65176b0b246830509bd8adb3f9, type: 2}
+  - {fileID: 11400000, guid: fcb0387955f8ec74dac51049f2c2f5a5, type: 2}
+  - {fileID: 11400000, guid: 3d5d6d46005144c48afcc6cb69dc0df5, type: 2}
+  - {fileID: 11400000, guid: 378f62077c0f2114e9e35d12c100ea34, type: 2}
+  - {fileID: 11400000, guid: e89279f2215d4b541bbe22bc0d949c71, type: 2}
+  - {fileID: 11400000, guid: bee5efc716bd55c438421707833b637e, type: 2}
+  - {fileID: 11400000, guid: a71833b049b6af2498be00fe0daf4f5d, type: 2}
+  - {fileID: 11400000, guid: 2051aa04346d1f1498915bf207dbcce6, type: 2}
+  - {fileID: 11400000, guid: 91e1449f1bb98e64985157ccf4c0d38c, type: 2}
+  - {fileID: 11400000, guid: 2738408cf163b7340871129ab706f30a, type: 2}
+  - {fileID: 11400000, guid: 529a8cb6dcc0cac43a5fa4586931161a, type: 2}
+  - {fileID: 11400000, guid: 0348409dea522c94ba87e3b030d6b07d, type: 2}
+  - {fileID: 11400000, guid: ebf8adfb962ca914098b926ef3bc4f7c, type: 2}
+  - {fileID: 11400000, guid: 4bc1bb83dce9a204783a55e3f6e2cab4, type: 2}
+  - {fileID: 11400000, guid: ae50e61b24fe0014ca3414117c46c969, type: 2}
+  - {fileID: 11400000, guid: 0b2dc148565f33942a6c6b310b7465d1, type: 2}
+  CurrentWeaponLevel: 0
+  PlayerVelocityMinSpeed: 0.1
+  GoodFloatingMessages: []
+  BadFloatingMessages: []
+  BulletPrefab: {fileID: 620869455119656399, guid: 9d3d146d8a490ba4f84bb3d5694564b7,
+    type: 3}
+  HelmetPrefab: {fileID: 6827744279152231028, guid: a086c405df0579f46a4d788688e8f679,
+    type: 3}
+  WeaponPrefab: {fileID: 8562539866129469933, guid: 927f75925a55dc9498fb288d48da9673,
+    type: 3}
+  UnselectedColor: {r: 1, g: 1, b: 1, a: 1}
+  SelectedColor: {r: 1, g: 1, b: 1, a: 1}
+  GoodFloatingTextColor: {r: 0, g: 0, b: 0, a: 0}
+  BadFloatingTextColor: {r: 0, g: 0, b: 0, a: 0}
+  FloatingTextPrefab: {fileID: 0}
